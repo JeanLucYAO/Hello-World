@@ -1,0 +1,25 @@
+html {
+    font-family: 'Source Sans 3', sans-serif;
+    background-color: #F0F5F9;
+}
+
+body {
+    width: 900px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: bold;
+    color: #39729E;
+}
+
+a {
+    color: #39729E;
+}
+
+h3, li {
+    /* font-size: 16px; */
+    line-height: 2;
+    letter-spacing: 0.7px;
+}
