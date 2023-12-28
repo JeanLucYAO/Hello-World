@@ -18,3 +18,6 @@ I chose 3 sections that we will go through, and reproduce with the simple stack 
 - [ ] [Overview](https://quarto.org/)
 - [ ] [Get Started](https://quarto.org/docs/get-started/)
 - [ ] [Extensions](https://quarto.org/docs/extensions/)
+
+### Help
+- Studying the [CSS Grids layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids) can help clone better Quarto.
