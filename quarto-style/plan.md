@@ -21,3 +21,4 @@ I chose 3 sections that we will go through, and reproduce with the simple stack 
 
 ### Help
 - Studying the [CSS Grids layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids) can help clone better Quarto.
+- Freeze the header with [Positioning](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning)
